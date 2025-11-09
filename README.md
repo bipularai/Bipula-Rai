@@ -33,12 +33,12 @@ I enjoy building intelligent, user-focused applications that bridge data and cre
 
 <details>
   <summary>🔐 Login Page</summary>
-  <img src="images/login.png" alt="Login Screenshot" width="1000"/>
+  <img src="image/login.png" alt="Login Screenshot" width="1000"/>
 </details>
 
 <details>
   <summary>🏠 Home Page</summary>
-  <img src="images/home.png" alt="Home Screenshot" width="1000"/>
+  <img src="image/home.png" alt="Home Screenshot" width="1000"/>
 </details>
 
 <details>
