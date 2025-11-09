@@ -43,24 +43,24 @@ I enjoy building intelligent, user-focused applications that bridge data and cre
 
 <details>
   <summary>🎬 Movie Recommendations</summary>
-  <img src="images/recomender1.png" alt="Recommendations Screenshot 1" width="1000"/>
-  <img src="images/recomender2.png" alt="Recommendations Screenshot 2" width="1000"/>
+  <img src="image/recomender1.png" alt="Recommendations Screenshot 1" width="1000"/>
+  <img src="image/recomender2.png" alt="Recommendations Screenshot 2" width="1000"/>
 </details>
 
 <details>
   <summary>🎥 Watch in Cinema</summary>
-  <img src="images/watchincenema.png" alt="Watch in Cinema Screenshot" width="1000"/>
+  <img src="image/watchincenema.png" alt="Watch in Cinema Screenshot" width="1000"/>
 </details>
 
 <details>
   <summary>🎟️ Ticket Booking</summary>
-  <img src="images/booking1.png" alt="Booking Screenshot 1" width="1000"/>
-  <img src="images/booking2.png" alt="Booking Screenshot 2" width="1000"/>
+  <img src="image/booking1.png" alt="Booking Screenshot 1" width="1000"/>
+  <img src="image/booking2.png" alt="Booking Screenshot 2" width="1000"/>
 </details>
 
 <details>
   <summary>💳 Subscription Page</summary>
-  <img src="images/subscription.png" alt="Subscription Screenshot" width="1000"/>
+  <img src="image/subscription.png" alt="Subscription Screenshot" width="1000"/>
 </details>
 
 ---
