@@ -1,6 +1,8 @@
 # Bipula-Rai
 Portfolio
-<div style="background-image: url('image/bg1.webp');">
+<body style="background-image: url('image/bg1.webp'); background-size: cover;">
+ 
+
 
 
 
@@ -103,6 +105,7 @@ I enjoy building intelligent, user-focused applications that bridge data and cre
 ---
 
 ⭐ **“Keep learning. Keep building. Keep growing.”**
+</body>
 
 
 
