@@ -1,14 +1,13 @@
+# Bipula-Rai
+Portfolio
 <p align="center">
   <img src="images/banner.png" alt="Portfolio Banner" width="1000"/>
 </p>
-
 # 👋 Hi, I'm Bipula Rai
 
 🎓 Final Year BSc CSIT Student | 💻 AI/ML Enthusiast | 🚀 Aspiring Machine Learning Engineer  
 
 ---
-
-<div style="background-color:#f0f8ff; padding:20px; border-radius:10px;">
 
 ## 🧠 About Me
 I'm a final-year Computer Science student at Tribhuvan University with a deep interest in Artificial Intelligence and Machine Learning.  
@@ -19,7 +18,6 @@ I enjoy building intelligent, user-focused applications that bridge data and cre
 - 💬 Ask me about: **Python, Streamlit, APIs, Recommender Systems**
 - 📫 Reach me at: [bipularai11@gmail.com](mailto:bipularai11@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/bipula-rai-7445b62b4](https://www.linkedin.com/in/bipula-rai-7445b62b4/)
-</div>
 
 ---
 
@@ -34,45 +32,44 @@ I enjoy building intelligent, user-focused applications that bridge data and cre
 
 ---
 
-## 🖼️ Project Preview  
-
+## 🖼️ Project Preview 
 > **_📂 Click below to see the outputs_**
+
+
 
 <details>
   <summary>🔐 Login Page</summary>
-  <img src="images/login.png" alt="Login Screenshot" width="1000"/>
+  <img src="image/login.png" alt="Login Screenshot" width="1000"/>
 </details>
 
 <details>
   <summary>🏠 Home Page</summary>
-  <img src="images/home.png" alt="Home Screenshot" width="1000"/>
+  <img src="image/home.png" alt="Home Screenshot" width="1000"/>
 </details>
 
 <details>
   <summary>🎬 Movie Recommendations</summary>
-  <img src="images/recomender1.png" alt="Recommendations Screenshot 1" width="1000"/>
-  <img src="images/recomender2.png" alt="Recommendations Screenshot 2" width="1000"/>
+  <img src="image/recomender1.png" alt="Recommendations Screenshot 1" width="1000"/>
+  <img src="image/recomender2.png" alt="Recommendations Screenshot 2" width="1000"/>
 </details>
 
 <details>
   <summary>🎥 Watch in Cinema</summary>
-  <img src="images/watchincenema.png" alt="Watch in Cinema Screenshot" width="1000"/>
+  <img src="image/watchincenema.png" alt="Watch in Cinema Screenshot" width="1000"/>
 </details>
 
 <details>
   <summary>🎟️ Ticket Booking</summary>
-  <img src="images/booking1.png" alt="Booking Screenshot 1" width="1000"/>
-  <img src="images/booking2.png" alt="Booking Screenshot 2" width="1000"/>
+  <img src="image/booking1.png" alt="Booking Screenshot 1" width="1000"/>
+  <img src="image/booking2.png" alt="Booking Screenshot 2" width="1000"/>
 </details>
 
 <details>
   <summary>💳 Subscription Page</summary>
-  <img src="images/subscription.png" alt="Subscription Screenshot" width="1000"/>
+  <img src="image/subscription.png" alt="Subscription Screenshot" width="1000"/>
 </details>
 
 ---
-
-<div style="background-color:#e6f7ff; padding:20px; border-radius:10px;">
 
 ## 🧠 Tech Stack
 <p align="center">
@@ -83,29 +80,22 @@ I enjoy building intelligent, user-focused applications that bridge data and cre
   <img src="https://img.shields.io/badge/C%23-dotnet-purple?logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white"/>
 </p>
-</div>
 
 ---
 
-<div style="background-color:#fff0f5; padding:20px; border-radius:10px;">
-
 ## 🛠️ Skills
-<p align="center">
-  ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-data%20wrangling-brightgreen?logo=pandas&logoColor=white)
-  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-orange)
-  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
-</p>
-</div>
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-data%20wrangling-brightgreen?logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-orange)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bipularai&show_icons=true&theme=tokyonight"/>
-</p>
+![Bipula's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipularai&show_icons=true&theme=tokyonight)
 
 ---
 
 ⭐ **“Keep learning. Keep building. Keep growing.”**
+
