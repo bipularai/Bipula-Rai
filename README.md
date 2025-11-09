@@ -29,7 +29,8 @@ I enjoy building intelligent, user-focused applications that bridge data and cre
 
 ---
 
-## 🖼️ Project Preview (click below to see the outputs)
+## 🖼️ Project Preview (> 🖼️ **Click below to see the outputs**
+)
 
 <details>
   <summary>🔐 Login Page</summary>
