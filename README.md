@@ -84,11 +84,13 @@ I enjoy building intelligent, user-focused applications that bridge data and cre
 ---
 
 ## 🛠️ Skills
+<p align="center">
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-data%20wrangling-brightgreen?logo=pandas&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-orange)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+</p>
 
 ---
 
