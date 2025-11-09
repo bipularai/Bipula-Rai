@@ -2,7 +2,7 @@
 Portfolio
 <p align="center">
   <img src="image/bg1.webp" alt="Portfolio Banner" width="1000"/>
-</p>
+
 # 👋 Hi, I'm Bipula Rai
 
 🎓 Final Year BSc CSIT Student | 💻 AI/ML Enthusiast | 🚀 Aspiring Machine Learning Engineer  
@@ -100,4 +100,5 @@ I enjoy building intelligent, user-focused applications that bridge data and cre
 ---
 
 ⭐ **“Keep learning. Keep building. Keep growing.”**
+</p>
 
