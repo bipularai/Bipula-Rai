@@ -29,7 +29,8 @@ I enjoy building intelligent, user-focused applications that bridge data and cre
 
 ---
 
-## 🖼️ Project Preview <span style="color: #FF5733; font-weight:bold;">📂 Click below to see the outputs</span>
+## 🖼️ Project Preview 📂✨ Click below to see the outputs
+
 
 
 <details>
