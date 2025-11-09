@@ -1,7 +1,7 @@
 # Bipula-Rai
 Portfolio
 <p align="center">
-  <img src="images/bg1.webp" alt="Portfolio Background" style="width:100%; max-width:1200px; height:auto; border-radius:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="image/bg1.webp" alt="Portfolio Background" style="width:100%; max-width:1200px; height:auto; border-radius:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
 
 
