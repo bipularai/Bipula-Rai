@@ -103,6 +103,6 @@ I enjoy building intelligent, user-focused applications that bridge data and cre
 ---
 
 ⭐ **“Keep learning. Keep building. Keep growing.”**
-</div>
+
 
 
