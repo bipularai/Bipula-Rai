@@ -1,8 +1,9 @@
 # Bipula-Rai
 Portfolio
 <p align="center">
-  <img src="image/bg1.webp" alt="Portfolio Background" width="1000"/>
-  </p>
+  <img src="images/bg1.webp" alt="Portfolio Background" style="width:100%; max-width:1200px; height:auto; border-radius:10px;"/>
+</p>
+
 
 # 👋 Hi, I'm Bipula Rai
 
